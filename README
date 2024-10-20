@@ -24,6 +24,9 @@
 - TensorFlow 
 - Keras
 - LIME
+- JupyterLabs
+- Pytorch built on FastAI
+- Kaggle
 
  Future Scope:
 - Interpretable AI for hyper-personalization of health plans.
