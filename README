@@ -19,15 +19,18 @@ We present a Digital Twin Platform for Cardiology, which:
 - Secure AI frameworks ensuring data privacy using technologies like differential privacy.
 - Synthetic data generation using GANs to create secure training datasets without risking patient privacy.
 
-Technologies Used
-- Machine Learning:
+ Technologies Used
+- Python
+-TensorFlow 
+-Keras
+-LIME
 
-Future Scope
+ Future Scope
 - Interpretable AI for hyper-personalization of health plans.
 - Real-time edge AI to enable diagnostics and advice directly on devices without relying on cloud infrastructure.
 - On-device AI models using TensorFlow.js and WebAssembly for instant predictions.
 
-Team Members
+ Team Members
 - Parthib Basu (Team Lead)
 - Sana Ayesha
 - Shashank Gautam
