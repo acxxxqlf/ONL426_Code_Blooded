@@ -1,0 +1,44 @@
+---
+Welcome to the "Digital Twin Platform for Cardiac Healthcare", developed by Team Code Blooded (ONL426). This project leverages AI and real-time data to create a virtual model of a patient's heart for early diagnosis, improved accuracy in treatments, and personalized healthcare.
+
+ Project Overview
+
+ Problem Statement
+Cardiovascular diseases (CVD) are a leading cause of death worldwide, often exacerbated by delays in diagnosis and lack of personalized treatment. Overworked radiologists may miss critical signs, while patients struggle with inadequate tools to monitor their heart health.
+
+ Our Solution
+We present a **Digital Twin Platform for Cardiology**, which:
+- **Monitors and predicts heart conditions** using real-time patient data.
+- Utilizes **Explainable AI (XAI)** to ensure predictions are transparent and trustworthy.
+- Provides **personalized care** through continuous monitoring and AI-driven insights.
+- Empowers doctors with **AI-assisted tools** while allowing human intervention for low-confidence AI predictions (Human-in-the-loop approach).
+
+ Key Features
+- Personalized heart models** to monitor individual conditions.
+- Explainable AI (XAI)** that provides clear and transparent decision-making insights.
+- Secure AI frameworks** ensuring data privacy using technologies like differential privacy.
+- Synthetic data generation** using GANs to create secure training datasets without risking patient privacy.
+
+Technologies Used
+- Machine Learning:** TensorFlow, PyTorch, or Keras for AI/ML model development.
+- Explainable AI:** LIME, SHAP, or Captum for model explainability.
+- Secure AI:** PySyft, Opacus for privacy-preserving AI.
+- Synthetic Data Generation:** GANs, CTGAN for secure and ethical data handling.
+
+Future Scope
+- Interpretable AI** for hyper-personalization of health plans.
+- Real-time edge AI** to enable diagnostics and advice directly on devices without relying on cloud infrastructure.
+- On-device AI models** using TensorFlow.js and WebAssembly for instant predictions.
+
+Team Members
+- Parthib Basu (Team Lead)
+- Sana Ayesha
+- Shashank Gautam
+- Neha Channaiah
+- Sharvesh T Srinivasan
+
+
+
+
+
+
