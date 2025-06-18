@@ -1,28 +1,20 @@
 # Digital Twin Platform for Cardiac Healthcare
 
-Welcome to the **Digital Twin Platform for Cardiac Healthcare**, developed by **Team Code Blooded (ONL426)**. This project leverages AI and real-time data to create a virtual model of a patient's heart for early diagnosis, improved accuracy in treatments, and personalized healthcare.
+This project showcases a complete end-to-end AI-driven healthcare solution developed by **Team Code Blooded (ONL426)**. The platform creates a digital twin of a patient's heart using real-time data and AI to enable early diagnosis, improve treatment accuracy, and deliver personalized cardiac care.
 
 ## Project Overview
 
-### Problem Statement
+Cardiovascular diseases (CVD) are a major global health concern, often worsened by delays in diagnosis and lack of individualized treatment plans. Overburdened radiologists may miss subtle signs, and patients often lack effective monitoring tools. This platform addresses these gaps by combining real-time monitoring, explainable AI, and personalized healthcare models.
 
-Cardiovascular diseases (CVD) are a leading cause of death worldwide, often exacerbated by delays in diagnosis and lack of personalized treatment. Overworked radiologists may miss critical signs, while patients struggle with inadequate tools to monitor their heart health.
-
-### Our Solution
-
-We present a **Digital Twin Platform for Cardiology**, which:
-
-- Monitors and predicts heart conditions using real-time patient data
-- Utilizes Explainable AI (XAI) using LIME to ensure predictions are transparent and trustworthy
-- Provides personalized care through continuous monitoring and AI-driven insights
-- Empowers doctors with AI-assisted tools while allowing human intervention for low-confidence AI predictions (**Human-in-the-loop approach**)
+The system integrates advanced AI methods to ensure transparency, reliability, and privacy, empowering doctors with AI-assisted tools while still allowing human oversight in critical decisions.
 
 ## Key Features
 
-- Personalized heart models to monitor individual conditions
-- Explainable AI (XAI) that provides clear and transparent decision-making insights
-- Secure AI frameworks ensuring data privacy using technologies like differential privacy
-- Synthetic data generation using GANs to create secure training datasets without risking patient privacy
+- Personalized heart models for real-time condition monitoring
+- Explainable AI (XAI) using LIME to make predictions transparent and interpretable
+- Human-in-the-loop system allowing medical professionals to review low-confidence AI outputs
+- Secure AI frameworks with differential privacy to protect sensitive patient data
+- Synthetic data generation using GANs to create robust training datasets without exposing real patient data
 
 ## Technologies Used
 
@@ -31,18 +23,23 @@ We present a **Digital Twin Platform for Cardiology**, which:
 - Keras
 - LIME
 - JupyterLabs
-- Pytorch built on FastAI
+- Pytorch (FastAI)
 - Kaggle
+
+## What This Project Demonstrates
+
+This project demonstrates how AI, real-time data, and secure modeling can be combined to build highly personalized and explainable healthcare solutions. It highlights skills in AI modeling, explainable AI frameworks, real-time monitoring, synthetic data generation, and secure data handling for healthcare applications.
 
 ## Future Scope
 
-- Interpretable AI for hyper-personalization of health plans
-- Real-time edge AI to enable diagnostics and advice directly on devices without relying on cloud infrastructure
-- On-device AI models using TensorFlow.js and WebAssembly for instant predictions
+- Develop interpretable AI for hyper-personalized healthcare plans
+- Deploy real-time edge AI for instant diagnostics directly on devices without cloud dependency
+- Integrate on-device AI models using TensorFlow.js and WebAssembly for fully localized predictions
 
 ## Team Members
 
 - Parthib Basu (Team Lead)
 - Sana Ayesha
 - Shashank Gautam
-- Neha Chann
+- Neha Channaiah
+- Sharvesh T Srinivasan
