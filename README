@@ -2,13 +2,13 @@
 
 This project showcases a complete end-to-end AI-driven healthcare solution developed by **Team Code Blooded (ONL426)**. The platform creates a digital twin of a patient's heart using real-time data and AI to enable early diagnosis, improve treatment accuracy, and deliver personalized cardiac care.
 
-## Project Overview
+## **Project Overview**
 
 Cardiovascular diseases (CVD) are a major global health concern, often worsened by delays in diagnosis and lack of individualized treatment plans. Overburdened radiologists may miss subtle signs, and patients often lack effective monitoring tools. This platform addresses these gaps by combining real-time monitoring, explainable AI, and personalized healthcare models.
 
 The system integrates advanced AI methods to ensure transparency, reliability, and privacy, empowering doctors with AI-assisted tools while still allowing human oversight in critical decisions.
 
-## Key Features
+## **Key Features**
 
 - Personalized heart models for real-time condition monitoring
 - Explainable AI (XAI) using LIME to make predictions transparent and interpretable
@@ -16,7 +16,7 @@ The system integrates advanced AI methods to ensure transparency, reliability, a
 - Secure AI frameworks with differential privacy to protect sensitive patient data
 - Synthetic data generation using GANs to create robust training datasets without exposing real patient data
 
-## Technologies Used
+## **Technologies Used**
 
 - Python
 - TensorFlow
@@ -26,17 +26,21 @@ The system integrates advanced AI methods to ensure transparency, reliability, a
 - Pytorch (FastAI)
 - Kaggle
 
-## What This Project Demonstrates
+## **What This Project Demonstrates**
 
-This project demonstrates how AI, real-time data, and secure modeling can be combined to build highly personalized and explainable healthcare solutions. It highlights skills in AI modeling, explainable AI frameworks, real-time monitoring, synthetic data generation, and secure data handling for healthcare applications.
+- Integration of AI with real-time healthcare monitoring
+- Application of Explainable AI (XAI) to increase trust in model predictions
+- Secure data handling using privacy-preserving techniques like differential privacy
+- Synthetic data generation to enhance model training without compromising patient confidentiality
+- Combining human expertise with AI through a human-in-the-loop approach
 
-## Future Scope
+## **Future Scope**
 
 - Develop interpretable AI for hyper-personalized healthcare plans
 - Deploy real-time edge AI for instant diagnostics directly on devices without cloud dependency
 - Integrate on-device AI models using TensorFlow.js and WebAssembly for fully localized predictions
 
-## Team Members
+## **Team Members**
 
 - Parthib Basu (Team Lead)
 - Sana Ayesha
